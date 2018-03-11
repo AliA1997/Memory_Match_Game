@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Exo|Mina');
+body {
+    font-family: mina;
+}
+table, td {
+    border: 5px solid black;
+}
+td {
+ height: 100px;
+ width: 100px;
+ text-align: center;
+ background-color: blue;
+}
